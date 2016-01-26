@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Adam Jones",
+    "shortname":"Adam_Jones",
+    "reknown":"Center Field",
+    "bio":"Adam LaMarque Jones (born August 1, 1985) is an American professional baseball outfielder with the Baltimore Orioles of Major League Baseball. He was drafted in the first round of the 2003 draft by the Seattle Mariners.[1] He came up in the Mariners' minor league system before being traded to the Orioles before the 2008 season."
+  },
+  {
+    "name":"Matt Wieters",
+    "shortname":"Matt_Wieters",
+    "reknown":"Catcher",
+    "bio":"Matthew Richard Wieters (born May 21, 1986) is an American professional baseball player. He plays as a catcher in Major League Baseball for the Baltimore Orioles. Wieters was drafted fifth overall in the 2007 Major League Baseball Draft.[1] Wieters played college baseball for Georgia Tech, and his agent is Scott Boras.[2][3] Wieters is a tall athletic hitter, standing 6 feet 5 inches tall."
+  },
+  {
+    "name":"Chris Davis",
+    "shortname":"Chris_Davis",
+    "reknown":"First Base / Right Field",
+    "bio":"Christopher Lyn Davis (born March 17, 1986), nicknamed Crush Davis, is an American professional baseball first baseman with the Baltimore Orioles of Major League Baseball (MLB). He stands 6 feet 3 inches (1.91 m) tall and weighs 230 pounds (100 kg). Davis also played with the Texas Rangers from 2008 until being traded to the Orioles in 2011. He bats left-handed and throws right-handed."
+  },
+  {
+    "name":"Jonathan Schoop",
+    "shortname":"Jonathan_Schoop",
+    "reknown":"Second Base",
+    "bio":"Jonathan Rufino Jezus Schoop (born October 16, 1991) is a Curaçaoan professional baseball second baseman for the Baltimore Orioles of Major League Baseball."
+  },
+  {
+    "name":"Steve Pearce",
+    "shortname":"Steve_Pearce",
+    "reknown":"Left Field",
+    "bio":"Steven Wayne Pearce (born April 13, 1983) is an American professional baseball infielder and outfielder for the Baltimore Orioles of Major League Baseball. He previously played for the Pittsburgh Pirates, Houston Astros, and New York Yankees."
+  },
+  {
+    "name":"J.J. Hardy",
+    "shortname":"JJ_Hardy",
+    "reknown":"Shortstop",
+    "bio":"James Jerry Hardy (born August 19, 1982) is an American professional baseball shortstop with the Baltimore Orioles of Major League Baseball. He previously played for the Milwaukee Brewers and Minnesota Twins."
+  },
+  {
+    "name":"Manny Machado",
+    "shortname":"Manny_Machado",
+    "reknown":"Third Base",
+    "bio":"Manuel Arturo Machado (born July 6, 1992) is a Dominican-American professional third baseman for the Baltimore Orioles of Major League Baseball. He attended Brito High School in Miami. Machado was drafted by the Orioles with the third overall pick in the 2010 Major League Baseball Draft. He bats and throws right-handed."
+  },
+  {
+    "name":"Chris Parmelee",
+    "shortname":"Chris_Parmelee",
+    "reknown":"First Base",
+    "bio":"Christopher Matthew Parmelee (born February 24, 1988) is an American professional baseball right fielder and first baseman for the Baltimore Orioles of Major League Baseball (MLB). He stands 6 feet 1 inch (1.85 m) and weighs 230 pounds (100 kg), and bats and throws left handed. He has previously played for the Minnesota Twins."
+  },
+  {
+    "name":"Travis Snider",
+    "shortname":"Travis_Snider",
+    "reknown":"Outfield",
+    "bio":"Travis James Snider (born February 2, 1988) is an American professional baseball outfielder for the Baltimore Orioles of Major League Baseball (MLB). Snider has played in MLB for the Toronto Blue Jays and Pittsburgh Pirates since 2008."
+  }
+]
